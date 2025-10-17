@@ -1,0 +1,21 @@
+.q-field.q-field--outlined {
+    font-family: 'Times New Roman';
+    --q-primary: white;
+    --q-field-border-color: white;
+    --q-field-label-color: white;
+}
+.q-field.q-field--outlined.q-field--focused {
+    --q-primary: white;
+    --q-field-border-color: white;
+    --q-field-label-color: white;
+}
+.q-field.q-field--outlined.q-field--highlighted {
+    --q-primary: white;
+    --q-field-border-color: white;
+    --q-field-label-color: white;
+}
+
+.q-field input {
+    font-family: 'Times New Roman';
+    font-size: 18px;
+}
